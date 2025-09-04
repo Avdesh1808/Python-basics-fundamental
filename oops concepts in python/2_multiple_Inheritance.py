@@ -1,3 +1,4 @@
+# This is the example of multiple inheritance
 class student:
     def __init__(self,name):
         self.name=name
@@ -16,5 +17,6 @@ class student_dance(student,dance):
 a = student_dance("Nikita")
 a.show_dance()
 a.show()
+
 
         
