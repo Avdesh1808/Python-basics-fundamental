@@ -1,3 +1,4 @@
+# This is the example of Single inhertance
 class animal:
     def __init__(self,name,species):
         self.name = name
@@ -13,4 +14,5 @@ class Cat(animal):
 a=animal("Dog","Lebra")
 a.make_sound()
 b=Cat("Cat","Big Cat")
+
 b.make_sound()
