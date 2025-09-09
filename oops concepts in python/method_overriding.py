@@ -1,4 +1,5 @@
-# This is the example of overriding function
+# This is the code example of Polymorphism
+# This is the example of overriding function 
 class shape:
     def __init__(self, x , y):
         self.x = x
@@ -21,4 +22,5 @@ class square(shape):
 a=square(2)
 print(a.area())
 b=circle(3)
+
 print(b.area())
