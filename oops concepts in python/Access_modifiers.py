@@ -1,3 +1,4 @@
+#This is the example of encapsulation
 # Access mofifiers/Specifiers
 # used for limit tha access of class variables and class methods outside
 class students:
