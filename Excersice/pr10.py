@@ -1,0 +1,12 @@
+#find ASCCII code of characters and special symbol
+print(ord("A"))
+print(ord('V'))
+print(ord('D'))
+print(ord('E'))
+print(ord('S'))
+print(ord('H'))
+print(ord('\''))
+print(ord('"'))
+print(ord("'"))
+print(ord("|"))
+print(ord("*"))
